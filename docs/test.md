@@ -1,1 +1,1 @@
-<iframe width="400" height="215" src="https://murena.io/apps/calendar/embed/AWXQ9ZzJqZjZp78b"></iframe>
+<iframe src="https://murena.io/apps/calendar/embed/b2SxEM85jamaS5nW"></iframe>
